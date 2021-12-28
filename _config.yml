@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jichao Li / Site Title"
+title                    : "Practical Aerodynamic Optimization"
 title_separator          : "-"
 name                     : &name "Jichao Li"
-description              : &description "Research Fellow at National University of Singapore"
+description              : &description "Ph.D. in Aerospace"
 url                      : https://npuljc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "npuljc.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Jichao Li"
-  avatar           : "profile.png"
-  bio              : "Research Fellow at National University of Singapore, working on aerodynamic shape optimization and flow control"
+  avatar           : "portrait.png"
+  bio              : "Ph.D. in Aerospace, working on aerodynamic shape optimization and flow control"
   location         : 
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/npuljc"
+  github           : "npuljc"
   google_plus      :
   keybase          :
   instagram        :
