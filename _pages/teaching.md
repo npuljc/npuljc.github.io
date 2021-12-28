@@ -1,8 +1,10 @@
 ---
-layout: archive
 title: "Service"
-permalink: /
+permalink: /teaching/
 author_profile: true
+redirect_from: 
+  - /teaching/
+  - /teaching.html
 ---
 
 ## Reviewer
@@ -21,8 +23,3 @@ author_profile: true
 
 * AIAA
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
