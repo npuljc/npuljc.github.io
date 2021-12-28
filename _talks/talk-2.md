@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-2
 venue: "Department of Mechanics and Aerospace Engineering, SUSTech"
-date: 2020-05-01
+date: 2021-03-10
 location: "Shenzhen, China (Webinar)"
 ---
 

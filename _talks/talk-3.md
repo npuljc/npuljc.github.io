@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-3
 venue: "Extrality Semniar"
-date: 2021-06-01
+date: 2021-06-04
 location: "Paris, France (Webinar)"
 ---
 
