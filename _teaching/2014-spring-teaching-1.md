@@ -1,8 +1,3 @@
----
-title: "Service"
-author_profile: true
----
-
 ## Reviewer
 
 * AIAA Journal
