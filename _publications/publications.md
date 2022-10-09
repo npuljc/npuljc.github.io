@@ -1,0 +1,34 @@
+---
+layout: archive
+title: ""
+permalink: /publications/
+author_profile: true
+---
+
+## Journal articles
+
+
+|        |  |
+|   :-:    | -       |
+| <img src='../images/PAS.png' align="center" width="300"> | __Jichao Li__, Xiaosong Du, Joaquim R. R. A. Martins.  <br><br> [__Machine learning in aerodynamic shape optimization__](https://www.researchgate.net/publication/363208636_Machine_learning_in_aerodynamic_shape_optimization)  <br><br> _Progress in Aerospace Sciences_ (2022)|
+| <img src='../images/RLflowcontrol.png' align="center" width="300" height="100"> | __Jichao Li__, Mengqi Zhang.  <br><br> [__Reinforcement-learning-based Control of Confined Cylinder Wakes with Stability Analyses__](https://www.researchgate.net/publication/357030368_Reinforcement-learning-based_control_of_confined_cylinder_wakes_with_stability_analyses)  <br><br> _Journal of Fluid Mechanics_ (2022)|
+| <img src='../images/Buffet.png' align="center" width="300"> | __Jichao Li__, Sicheng He, Mengqi Zhang, Joaquim R. R. A. Martins, Boo Cheong Khoo.  <br><br> [__Physics-Based Data-Driven Buffet-Onset Constraint for Aerodynamic Shape Optimization__](https://www.researchgate.net/publication/328713133_Data-Based_Approach_for_Fast_Airfoil_Analysis_and_Optimization)  <br><br> _AIAA Journal_ (2022)|
+| <img src='../images/UAVairfoilmodes.png' align="center" width="300"> | __Jichao Li__, Mengqi Zhang, Chien Ming Jonathan Tay, Ningyu Liu, Yongdong Cui, Siou Chye Chew, Boo Cheong Khoo.  <br><br> [__Low-Reynolds-number Airfoil Design Optimization using Deep-learning-based Tailored Airfoil Modes__](https://www.researchgate.net/publication/357441176_Low-Reynolds-number_airfoil_design_optimization_using_deep-learning-based_tailored_airfoil_modes)  <br><br> _Aerospace Science and Technology_ (2022)|
+| <img src='../images/CRMmodes.png' align="center" width="300"> | __Jichao Li__, Mengqi Zhang.  <br><br> [__Adjoint-Free Aerodynamic Shape Optimization of the Common Research Model Wing__](https://www.researchgate.net/publication/348646137_Adjoint-Free_Aerodynamic_Shape_Optimization_of_the_Common_Research_Model_Wing)  <br><br> _AIAA Journal_ (2021)|
+| <img src='../images/BWBmodes.png' align="center" width="300"> | __Jichao Li__, Mengqi Zhang.  <br><br> [__On deep-learning-based geometric filtering in aerodynamic shape optimization__](https://www.researchgate.net/publication/349656275_On_deep-learning-based_geometric_filtering_in_aerodynamic_shape_optimization)  <br><br> _Aerospace Science and Technology_ (2021)|
+| <img src='../images/DataCRM.png' align="center" width="300"> | __Jichao Li__, Mengqi Zhang.  <br><br> [__Data-based Approach for Wing Shape Design Optimization__](https://www.researchgate.net/publication/350161199_Data-based_approach_for_wing_shape_design_optimization)  <br><br> _Aerospace Science and Technology_ (2021)|
+| <img src='../images/GAN.png' align="center" width="300"> | __Jichao Li__, Mengqi Zhang, Joaquim R. R. A. Martins, Chang Shu.  <br><br> [__Efficient Aerodynamic Shape Optimization with Deep-Learning-Based Geometric Filtering__](https://www.researchgate.net/publication/342620657_Efficient_Aerodynamic_Shape_Optimization_with_Deep-Learning-Based_Geometric_Filtering)  <br><br> _AIAA Journal_ (2020)|
+| <img src='../images/Massive.png' align="center" width="300"> | __Jichao Li__, Jinsheng Cai.  <br><br> [__Massively Multipoint Aerodynamic Shape Design via Surrogate-Assisted Gradient-Based Optimization__](https://www.researchgate.net/publication/338232729_Massively_Multipoint_Aerodynamic_Shape_Design_via_Surrogate-Assisted_Gradient-Based_Optimization)  <br><br> _AIAA Journal_ (2020)|
+| <img src='../images/lowspeed.png' align="center" width="300"> | __Jichao Li__, Sicheng He, Joaquim R. R. A. Martins.  <br><br> [__Data-driven Constraint Approach to Ensure Low-speed Performance in Transonic Aerodynamic Shape Optimization__](https://www.researchgate.net/publication/333761028_Data-driven_Constraint_Approach_to_Ensure_Low-speed_Performance_in_Transonic_Aerodynamic_Shape_Optimization)  <br><br> _Aerospace Science and Technology_ (2019)|
+| <img src='../images/circleopt.png' align="center" width="300"> | Xiaolong He, __Jichao Li__, Charles Mader, Anil Yildirim, Joaquim R. R. A. Martins.  <br><br> [__Robust aerodynamic shape optimization—From a circle to an airfoil__](https://www.researchgate.net/publication/331027606_Robust_aerodynamic_shape_optimization-From_a_circle_to_an_airfoil)  <br><br> _Aerospace Science and Technology_ (2019)|
+| <img src='../images/ASM.png' align="center" width="300"> | __Jichao Li__, Jinsheng Cai, Kun Qu.  <br><br> [__Surrogate-based aerodynamic shape optimization with the active subspace method__](https://www.researchgate.net/publication/327211575_Surrogate-based_aerodynamic_shape_optimization_with_the_active_subspace_method)  <br><br> _Structural and Multidisciplinary Optimization_ (2019)|
+| <img src='../images/DataAirfoil.png' align="center" width="300"> | __Jichao Li__, Mohamed A. Bouhlel, Joaquim R. R. A. Martins.  <br><br> [__Data-Based Approach for Fast Airfoil Analysis and Optimization__](https://www.researchgate.net/publication/328713133_Data-Based_Approach_for_Fast_Airfoil_Analysis_and_Optimization)  <br><br> _AIAA Journal_ (2019)|
+| <img src='../images/DomainDecomp.png' align="center" width="300"> | __Jichao Li__, Jinsheng Cai, Kun Qu.  <br><br> [__Adjoint-Based Two-Step Optimization Method Using Proper Orthogonal Decomposition and Domain Decomposition__](https://arc.aiaa.org/doi/10.2514/1.J055773)  <br><br> _AIAA Journal_ (2018)|
+
+## Conference proceedings
+
+|        |  |
+|   :-:    | -       |
+| <img src='../images/APAT.png' align="center" width="300"> | __Jichao Li__, Jinsheng Cai, Kun Qu.  <br><br> [__Drag Reduction of Transonic Wings with Surrogate-Based Optimization__](https://www.researchgate.net/publication/333665020_Drag_Reduction_of_Transonic_Wings_with_Surrogate-Based_Optimization)  <br><br> _APISAT_ (2018)|
+| <img src='../images/DataAirfoilSciTech.png' align="center" width="300"> | __Jichao Li__, Mohamed A. Bouhlel, Joaquim R. R. A. Martins.  <br><br> [__A Data-Based Approach for Fast Airfoil Analysis and Optimization__](https://www.researchgate.net/publication/322869846_A_Data-based_Approach_for_Fast_Airfoil_Analysis_and_Optimization)  <br><br> _SciTech_ (2018)|
+| <img src='../images/ROMAdj.png' align="center" width="300"> | __Jichao Li__, Kun Qu, Jinsheng Cai, Changqiang Cao. <br><br> [__Adjoint Approach based on Reduced-order Model for Steady PDE Systems__](https://www.researchgate.net/publication/303902969_Adjoint_Approach_based_on_Reduced-order_Model_for_Steady_PDE_Systems)  <br><br> _SciTech_ (2018)|

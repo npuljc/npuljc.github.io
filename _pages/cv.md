@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,6 +16,26 @@ Education
 
 Research experience
 ======
-* Visiting Ph.D student in Aerospace Engineering,  University of Michigan, 2016-2018
-* Visiting Ph.D in Aerospace Engineering,  University of Michigan, 2019-present
+* Research Fellow, National University of Singapore, 2019 - present
+* Visiting Ph.D student,  University of Michigan, 2016-2018
+
+Membership
+======
+* AIAA
+
+Reviewer
+======
+* AIAA Journal
+* Journal of Aircraft
+* Aerospace Science and Technology
+* Chinese Journal of Aeronautics
+* International Journal for Numerical Methods in Fluids
+* Applied Artificial Intelligence
+* Mechanics and Industry
+* SIAM Journal on Scientific Computing
+* Journal of Fluid Mechanics
+* Energies
+* Aerospace
+* Scientific Reports
+
 
