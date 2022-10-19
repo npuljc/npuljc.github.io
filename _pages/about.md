@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-My research is to improve the practicality of aerodynamic shape optimization in the industrial design of aircraft and wind energy systems. I aim to provide effective solutions to large-scale aerodynamic shape optimization problems, especially those with **massive design points**, **uncertain design variables**, **discontinuous metric functions**, and **multiple design objectives**. 
+My research is to improve the practicality of aerodynamic shape optimization in the industrial design of aircraft and wind energy systems. I aim to provide effective solutions to large-scale aerodynamic shape optimization problems, especially those with **massive design points**, **uncertain design variables**, **discontinuous merit functions**, and **multiple design objectives**. 
 
 The difficulties to address the demands come from two fundamental issues: the high dimensionality of shape design variables and the high computational cost of CFD simulations. My research shows that using **scientific machine learning** is a way to solve these issues and realize practical and large-scale aerodynamic shape optimization for the industry. 
 
