@@ -16,7 +16,8 @@ Education
 
 Research experience
 ======
-* Research Fellow, National University of Singapore, 2019 - present
+* Scientist, Institute of High Performance Computing, Singapore, 2022-present
+* Research Fellow, National University of Singapore, 2019 - 2022
 * Visiting Ph.D student,  University of Michigan, 2016-2018
 
 Membership
@@ -37,5 +38,4 @@ Reviewer
 * Energies
 * Aerospace
 * Scientific Reports
-
 
