@@ -19,3 +19,5 @@ My research highlights are:
 - Proposed a compact shape parameterization approach that addresses the dimensionality issue in design optimization of aircraft and wind turbines
 - Developed fast aerodynamic models for on-design and off-design performance analysis to reduce the computational cost
 - Presented a flexible and efficient optimization framework that enables effective aerodynamic shape optimization using any CFD solvers
+
+<a href="https://clustrmaps.com/site/1btav" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=oyoVIR8bkjg0bNog3f2MhAO01W4hnsAMl3ssSbaCNJ8&cl=ffffff"></a>
